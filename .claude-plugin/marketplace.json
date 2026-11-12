@@ -1,0 +1,13 @@
+{
+  "name": "qc-kit-marketplace",
+  "owner": {
+    "name": "Donovan"
+  },
+  "plugins": [
+    {
+      "name": "qc-kit",
+      "source": "./",
+      "description": "주간 품질검사 집계·감사·회의 문장 작성 에이전트와 스킬, 원본(data/) 수정 차단 훅"
+    }
+  ]
+}
